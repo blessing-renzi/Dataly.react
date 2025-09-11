@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "./button";
+import Button from "./Button";
 import { useState } from "react";
 import { IoMdClose } from "react-icons/io";
 import { IoIosMenu } from "react-icons/io";
