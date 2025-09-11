@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "./button";
+import Button from "./Button";
 
 const Analytics = () => {
   return (
@@ -23,7 +23,7 @@ const Analytics = () => {
             sint dicta suscipit quis est iusto, aperiam expedita nostrum velit
             impedit quas exercitationem voluptatem iste unde. Voluptas, iste.
           </p>
-      
+
           <Button
             content={"Get Started"}
             type={"button"}

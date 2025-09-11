@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "./button";
+import Button from "./Button";
 import { ReactTyped } from "react-typed";
 
 const Hero = () => {
@@ -20,7 +20,8 @@ const Hero = () => {
             backSpeed={60}
             loop
             className="text-gray-600 font-bold"
-          />    
+          />
+              
         </h2>
         <p className="text-gray-400 font-bold text-xl md:text-3xl mb-4 md:mb-6">
           Monitor your data analytics to increase revenue for BTB, BTC & SASS{" "}
