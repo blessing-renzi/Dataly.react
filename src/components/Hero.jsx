@@ -13,18 +13,17 @@ const Hero = () => {
           GROW WITH DATA.
         </h1>
         <h2 className="text-xl md:text-3xl font-semibold mb-4 text-white">
-          Fast, Flexible Financing for
+          Fast, Flexible Financing for{"  "}
           <ReactTyped
             strings={["BTC", "BTB", "SASS"]}
             typeSpeed={100}
-            backSpeed={60}
+            backSpeed={100}
             loop
             className="text-gray-600 font-bold"
           />
-              
         </h2>
         <p className="text-gray-400 font-bold text-xl md:text-3xl mb-4 md:mb-6">
-          Monitor your data analytics to increase revenue for BTB, BTC & SASS{" "}
+          Monitor your data analytics to increase revenue for BTB, BTC & SASS
           <br className="hidden md:block" />
           platforms
         </p>
